@@ -5,19 +5,19 @@ This document explains everything you need about the Ploomber <> Panel Hackathon
 ## Individual Registration
 
 To participate in the hackathon, you must submit the sign-up form. Registration closes
-on March 1st, 2024. Participants will receive a confirmation over the weekend, and
-we’ll begin the Hackathon on March 4th, 2024.
+on March 15th, 2024. Participants will receive a confirmation over the weekend, and
+we’ll begin the Hackathon on March 18th, 2024.
 
 ## Rules
 
 - Code must be open-source
-- You must participate in teams of 2 or 3
+- You must participate solo or in teams of 2 or 3
 - The app must use [Panel](https://github.com/holoviz/panel)
 - The app must be deployed to [Ploomber Cloud](https://ploomber.io/)
 
 ## Confirm your participation
 
-Join Panel’s Discord to pitch your idea, you must participate in teams of 2 or 3.
+If you're looking for teammates, join Panel’s Discord to pitch your idea.
 
 Someone from each team should **open a PR** to this repository and themselves to the [Teams](#teams) section.
 
@@ -66,7 +66,7 @@ if you have issues deploying to Ploomber, join [Ploomber's Slack](https://ploomb
 
 ## Submitting your work
 
-You must submit your work by March 22nd 11:59PM [anywhere on Earth.](https://time.is/Anywhere_on_Earth)
+You must submit your work by March 31st 11:59PM [anywhere on Earth.](https://time.is/Anywhere_on_Earth)
 
 Your submission will be a PR to this repository with a link to the deployed application. The Ploomber team
 will verify the time of the last deployment to ensure timely submissions. After the deadline passes,
@@ -78,4 +78,20 @@ Winners will be announced no later than March 29th 11:59PM anywhere on Earth.
 
 ## Prizes
 
-TBD
+
+### 1st place
+
+- Ploomber Cloud Pro accounts with $400 in credits per team
+- Amazon gift card for $120
+
+### 2nd place
+
+- Ploomber Cloud Pro accounts with $400 in credits per team
+- Amazon gift card for $80
+
+### 3rd place
+
+- Ploomber Cloud Pro accounts with $200 in credits per team
+
+
+*Note: credits valid for 6 months from the winner's announcement*
