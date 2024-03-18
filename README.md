@@ -14,6 +14,7 @@ we’ll begin the Hackathon on March 18th, 2024.
 - You must participate solo or in teams of 2 or 3
 - The app must use [Panel](https://github.com/holoviz/panel)
 - The app must be deployed to [Ploomber Cloud](https://ploomber.io/)
+- We're pretty open to topics, but feel free to [discuss your idea](#getting-help). Some topics we like like: LLM-powered applications, data visualization, Machine Learning, scientific computing. For inspiration check out [Panel's examples](https://panel.holoviz.org/gallery/index.html)
 
 ## Confirm your participation
 
