@@ -37,9 +37,11 @@ App link on [Ploomber Cloud](https://plain-breeze-4374.ploomberapp.io)
 
 Members: Malay Damani
 
-Project description: Sophia AI is an innovative virtual psychiatrist designed to provide support and guidance to individuals experiencing trauma or depression. Utilizing advanced natural language processing and empathetic responses, Sophia AI aims to promote mental well-being and facilitate access to professional help when necessary.
+Project description: Sophia AI represents a groundbreaking leap in virtual psychiatric care, delivering unparalleled support and guidance to individuals navigating trauma or depression. Harnessing the power of cutting-edge natural language processing and compassionate responses, Sophia AI is engineered to foster mental well-being and seamlessly connect users with professional assistance as needed. Notably, Sophia AI stands as the undisputed champion of rapid self-help chatbots, offering lightning-fast responses to provide immediate relief and empowerment to those seeking solace.
 
-Link to GitHub repository: https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-.git
+Link to GitHub repository: [Sophia AI GitHub Repository](https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-.git)
+
+App link live on [Sophia AI on Ploomber Cloud](https://floral-dew-2681.ploomberapp.io/app)
 
 ### {{TEAM NAME}}
 
