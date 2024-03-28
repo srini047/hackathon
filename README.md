@@ -84,7 +84,7 @@ if you have issues deploying to Ploomber, join [Ploomber's Slack](https://ploomb
 
 ## Submitting your work
 
-You must submit your work by March 31st 11:59PM [anywhere on Earth.](https://time.is/Anywhere_on_Earth)
+You must submit your work by ~March 31st~ April 7th 11:59PM [anywhere on Earth.](https://time.is/Anywhere_on_Earth)
 
 Your submission will be a PR to this repository with a link to the deployed application. The Ploomber team
 will verify the time of the last deployment to ensure timely submissions. After the deadline passes,
@@ -92,7 +92,7 @@ will verify the time of the last deployment to ensure timely submissions. After 
 
 ## Winners
 
-Winners will be announced no later than March 29th 11:59PM anywhere on Earth.
+Winners will be announced no later than April 12th.
 
 ## Prizes
 
