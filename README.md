@@ -43,13 +43,13 @@ Link to GitHub repository: [Sophia AI GitHub Repository](https://github.com/mala
 
 App link live on [Sophia AI on Ploomber Cloud](https://floral-dew-2681.ploomberapp.io/app)
 
-### {{TEAM NAME}}
+### Insuasu
 
-Members: {{LIST OF NAMES}}
+Members: Calvin
 
-Project description: {{2-3 sentences describing your project}}
+Project description: The project provides insights on the insurance ecosystem with the ultimate goal of creating more awareness on risk and coverage gaps in underserved markets. Using a dashboard, the solution reveals insights on insurance markets and the industries that depend on them.
 
-Link to GitHub repository: {{URL TO A PUBLIC REPOSITORY}}
+Link to GitHub repository: [{{URL TO A PUBLIC REPOSITORY}}](https://github.com/Calvinoea/hackathon)
 
 ## Evaluation rubric
 
