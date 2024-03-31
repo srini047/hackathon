@@ -51,6 +51,16 @@ Project description: The project provides insights on the insurance ecosystem wi
 
 Link to GitHub repository: [{{URL TO A PUBLIC REPOSITORY}}](https://github.com/Calvinoea/hackathon)
 
+### AILabOverflow
+
+Members:
+- Sriniketh J
+- Vignesh M
+
+Project Description: Our project seeks to assist students interested in conducting laboratory experiments virtually, bridging the gap for those who lack access to physical laboratories. The solution aims to enable these students to engage in their experiments virtually with AI assistance.
+
+Link to GitHub Repository: [AILabOverFlow](https://github.com/srini047/AILabOverFlow)
+
 ## Evaluation rubric
 
 We'll evaluate the projects with the following criteria:
